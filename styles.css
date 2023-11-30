@@ -7,6 +7,16 @@
    --text-black-700:#504e70; 
 
 }
+.social{
+    position: fixed;
+    right: 5%;
+    top: 0%;
+}
+.social img{
+    width: 25px;
+    display: inline-block;
+    margin: 25px 5px;
+}
 body{
     line-height: 1.5;
     font-size: 16px;
